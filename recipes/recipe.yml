@@ -16,6 +16,7 @@ modules:
     repos:
       - https://repository.mullvad.net/rpm/stable/mullvad.repo
       - https://raw.githubusercontent.com/ublue-os/bluefin/main/system_files/dx/etc/yum.repos.d/vscode.repo
+      - netbird.repo
     install:
       - code
       - mullvad-vpn
