@@ -19,6 +19,7 @@ modules:
     install:
       - code
       - mullvad-vpn
+      - netbird
 
   - type: systemd
     system:
